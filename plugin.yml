@@ -1,0 +1,13 @@
+name: OpList
+main: alz127\OpList\Main
+version: 0.1
+api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9]
+author: alz127
+load: POSTWORLD
+commands:
+  oplist:
+    description: "Shows the opped players"
+    permission: oplist
+    
+    
+    
